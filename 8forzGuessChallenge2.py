@@ -7,7 +7,7 @@
 #Apples
 #Oranges
 #Oreos
-#0
+#No
 
 #Output
 #You bought Apples
