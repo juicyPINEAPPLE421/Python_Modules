@@ -1,5 +1,5 @@
 #use a while loop to get inputs of grocery items and put them in a list
-#while loop stops when users enters 0
+#while loop stops when users enters "No"
 #use for loop to output the grocery items in a full sentence
 
 #ex.
